@@ -1,7 +1,7 @@
 wicked-short
 ============
 
-Simple short URL redirecter that pulls its data from any YAML or JSON file.
+Simple short URL redirector that pulls its data from any YAML or JSON file.
 
 I just wanted an easy way to bookmark and make my own custom URLs every time instead of relying on a 3rd party or a random algorithm to generate the short URLs.
 
